@@ -15,4 +15,4 @@ I'm interested in high level programming languages ​​like python, c# and oth
 ---
 [![](https://visitcount.itsvg.in/api?id=ashtrê&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
